@@ -20,4 +20,3 @@ Then it will asked the slideshare url if you doesn't provided [url], example url
 
 https://www.slideshare.net/reconvillage/rv-defcon25-how-to-obtain-100-facebook-accounts-per-day-through-internet-searches-guillermo-buendia
 
-Original fork from https://github.com/yodiaditya/slideshare-downloader.git
